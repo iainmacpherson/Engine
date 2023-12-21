@@ -1,0 +1,7 @@
+# editor stuff
+.vscode
+# 3rd party stuff
+include
+libs
+# build stuff
+build
