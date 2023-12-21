@@ -2,8 +2,6 @@
 
 _Note: this is a small project where I mess around with graphics programming, in particular using OpenGL. My goal was to learn more about graphics programming libraries and to develop an appreciation for the basics of computer graphics._
 
-_This project draws from [Learn OpenGL](https://learnopengl.com/) created by [Joey de Vries](https://twitter.com/JoeyDeVriez)._
-
 ## Requirements
 #### 3rd Party Libraries
 * GLFW
@@ -24,3 +22,6 @@ _This project draws from [Learn OpenGL](https://learnopengl.com/) created by [Jo
 
 ## TODO
 * Model loading
+
+## Attribution
+_This project is inspired by the [Learn OpenGL](https://learnopengl.com/) tutorial series created by [Joey de Vries](https://twitter.com/JoeyDeVriez)._
