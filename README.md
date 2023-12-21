@@ -23,5 +23,5 @@ _Note: this is a small project where I mess around with graphics programming, in
 ## TODO
 * Model loading
 
-## Attribution
+## References
 _This project is inspired by the [Learn OpenGL](https://learnopengl.com/) tutorial series created by [Joey de Vries](https://twitter.com/JoeyDeVriez)._
